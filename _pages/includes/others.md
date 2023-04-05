@@ -1,5 +1,5 @@
 # 📖 Educations
-- *2023.09 - now*, Master, Zhejiang University, Hangzhou.
+- *2023.06 - now*, Master, Zhejiang University, Hangzhou.
 - *2019.09 - 2023.06*, Undergraduate, HeFei University of Technology, Anhui.
 
 # 💬 Invited Talks
