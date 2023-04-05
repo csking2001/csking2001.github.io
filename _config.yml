@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shaokai Chen      (陈少凯)"
+  name             : "Shaokai Chen"
   avatar           : "images/csk-profile.jpg"
   bio              : "Zhejiang University"
   location         : "Hangzhou, Zhejiang, China"
