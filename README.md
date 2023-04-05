@@ -5,10 +5,10 @@ AcadHomepage
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+[![](https://img.shields.io/github/stars/csking2001/csking2001.github.io)](https://github.com/csking2001/csking2001.github.io)
+[![](https://img.shields.io/github/forks/csking2001/csking2001.github.io)](https://github.com/csking2001/csking2001.github.io)
+[![](https://img.shields.io/github/issues/csking2001/csking2001.github.io)](https://github.com/csking2001/csking2001.github.io)
+[![](https://img.shields.io/github/license/csking2001/csking2001.github.io)](https://github.com/csking2001/csking2001.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
 </div>
 
 <p align="center">A Modern and Responsive Academic Personal Homepage</p>
@@ -20,7 +20,7 @@ AcadHomepage
 </p>
 
 Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
+- [Demo Page](https://csking2001.github.io/)
 - [Personal Homepage of the author](https://csking2001.github.io/)
 
 ## Key Features
