@@ -6,8 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shaokai Chen 
-                             (陈少凯)"
+title                    : "Shaokai Chen     (陈少凯)"
 description              : "Focusing on knowledge graph "
 repository               : "csking2001/csking2001.github.io"
 google_scholar_stats_use_cdn : true
