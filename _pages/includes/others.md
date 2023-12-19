@@ -6,4 +6,4 @@
 - *2023.04*, To be continued...
 
 # 💻 Internships
-- *2023.12 - now*, [Ant Group](www.antfin.com)
+- *2023.12 - now*, [Ant Group](https://www.antfin.com)
