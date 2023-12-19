@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shaokai Chen (陈少凯)"
-description              : "Focusing on knowledge graph "
+description              : "Focusing on Knowledge Graph, LLM and Retrieval Augument. "
 repository               : "csking2001/csking2001.github.io"
 google_scholar_stats_use_cdn : true
 
